@@ -4,13 +4,13 @@
         <b-row>
             <b-col cols="12" md="4" offset-md="2" order="2" order-md="1">
                 <div class="col-md-10 col-sm-12 text-justify top-space">
-                    <h1>Jonothan Johnson has invited you to join Indie!</h1>
-                    <h2 class="top-space">Jonothan got insured recently with Indie and thinks you should join too. Here’s why:</h2>
+                    <h1>Jonothan Johnson has invited you to join Vue!</h1>
+                    <h2 class="top-space">Jonothan got insured recently with Vue and thinks you should join too. Here’s why:</h2>
                     <ol class="indy-list">
-                        <li><span>Indie helps you understand what insurance you need with a free Indie Plan.</span></li>
+                        <li><span>Vue helps you understand what insurance you need with a free Vue Plan.</span></li>
                         <li><span>Get a quote and insured online in just minutes. No call centres, no spam.</span></li>
-                        <li><span>Only Indie gives you Bounty – an upfront investment account with a stash of cash on day one.</span></li>
-                        <li><span>Get more Bounty when you bring your friends like Jonothan whi will get R1000 when you join Indie</span></li>
+                        <li><span>Only Vue gives you Bounty – an upfront investment account with a stash of cash on day one.</span></li>
+                        <li><span>Get more Bounty when you bring your friends like Jonothan whi will get R1000 when you join Vue</span></li>
                     </ol>
                     <b-button size="lg" class="btn-blue" v-b-modal.modal1><icon-arrow/>Get A Quote</b-button>
                     <p class="help-text">Takes only about 6 minutes</p>

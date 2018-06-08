@@ -1,6 +1,6 @@
-# indy
+# SPA
 
-> A Vue.js project
+> A SPA Vue.js project. Demo the usage of a SPA using flexbox, grid, and etc for designs. Responsive for mobile.
 
 ## Build Setup
 

@@ -8,7 +8,7 @@
             <b-nav-item v-bind:to="'/products'">Products</b-nav-item>
             <b-nav-item v-bind:to="'/bounty'">Bounty</b-nav-item>
             <b-nav-item v-bind:to="'/contact'">Contact</b-nav-item>
-            <b-nav-item v-bind:to="'/about'">About Indie</b-nav-item>
+            <b-nav-item v-bind:to="'/about'">About Vue</b-nav-item>
         </b-navbar-nav>
         <!-- Right aligned nav items -->
         <b-navbar-nav left>
@@ -23,7 +23,7 @@
     </b-navbar>
 
     <router-view></router-view>
-    <b-modal id="modal1" title="IndieFin">
+    <b-modal id="modal1" title="Quote">
         <p class="my-4">Let's get a quote!</p>
     </b-modal>
   </div>

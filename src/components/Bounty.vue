@@ -1,6 +1,6 @@
 <template>
   <div id="bounty">
-  Get more Bounty when you bring your friends like Jonothan whi will get R1000 when you join Indie.
+  Get more Bounty when you bring your friends like Jonothan whi will get R1000 when you join Vue.
   </div>
 </template>
 

@@ -1,6 +1,6 @@
 <template>
   <div id="products">
-    Indie helps you understand what insurance you need with a free Indie Plan.
+    Vue helps you understand what insurance you need with a free Vue Plan.
   </div>
 </template>
 
